@@ -10,7 +10,6 @@ else {
     //竖版打印机
     var printBillType = 0;
 }
-
 function chooseKid() {
     var flag = true;
     var initChildId = $("#initChildId").val();
