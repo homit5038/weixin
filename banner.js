@@ -1,3 +1,7 @@
+/*
+ * 终于会玩githib
+ */
+
 $(function() {
 	var listN = $(".bannerUl li").size();
 	for (i = 0; i < listN; i++) {
