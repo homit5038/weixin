@@ -1,6 +1,8 @@
 /**
  * Created by wy on 2016/1/9.
- */
+
+  * w 社会化和第三方
+  */
 var printWidth = $("#printerWidth").val();
 if (printWidth == 199 || printWidth == 249 || printWidth == 2414 || printWidth == 1214 || printWidth == 129 || printWidth == 1914) {
     //横版打印机
