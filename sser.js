@@ -28,7 +28,6 @@ function chooseKid() {
         $('.kinder-list-tr').eq(0).click();
     }
 }
-
 window.onload = chooseKid;//不要括号
 $(function () {
     $("#table-kinder-list").show();
