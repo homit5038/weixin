@@ -12,7 +12,6 @@ $(function() {
 		"margin-left": "-500",
 		opacity: 1
 	});
-
 	var sw = 1;
 	$(".bannerbtn span").mouseover(function() {
 		sw = $(".bannerbtn span").index(this);
